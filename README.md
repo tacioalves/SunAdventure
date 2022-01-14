@@ -1,13 +1,18 @@
 # Sun Adventure
 
 
-### Esse projeto é um jogo de nave 2D feito em JAVA.
+Esse projeto é um jogo de nave 2D feito em JAVA. </h3>
 
 <h1 align="center">
 
-<img alt = "Demostrar" title = "Demostrar" src="./github/Demostrar.gif" />
+<img alt = "PrincipalSRC.gif" title = "PrincipalSRC.gif" src="./gitHub/PrincipalSRC.gif" />
+<img alt = "turbo.gif" title = "turbo.gif" src="./gitHub/novoTurbo.gif" />
+  <img alt = "turbo.gif" title = "turbo.gif" src="./gitHub/novoBoss.gif" />
 
-<h1>
+
+
+
+  
 
 
 </br>
@@ -21,6 +26,7 @@
 - [x] Itens são gerados aleatoriamente quando um inimigo é morto
 - [x] Inimigos são gerados de forma aleatoria no mapa
 - [x] Novos tipos de inimigos
+- [x] Efeitos sonoros
 - [x] Chefe final
 
 
